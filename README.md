@@ -11,7 +11,7 @@
 
 ## Overview
 
-**AKSES** (Akses Edukasi Setara) adalah platform pembelajaran digital yang dirancang dari bawah ke atas untuk memastikan setiap siswa—terlepas dari keterbatasan sensorik mereka—mendapatkan pengalaman belajar yang setara, bermartabat, dan efektif. Platform ini menempatkan aksesibilitas bukan sebagai fitur tambahan, melainkan sebagai filosofi utama desain produk.
+**AKSES** (Akses Edukasi Setara) adalah platform pembelajaran digital yang dirancang dari bawah ke atas untuk memastikan setiap siswa terlepas dari keterbatasan sensorik mereka yaitu mendapatkan pengalaman belajar yang setara, bermartabat, dan efektif. Platform ini menempatkan aksesibilitas bukan sebagai fitur tambahan, melainkan sebagai filosofi utama desain produk.
 
 Di Indonesia, lebih dari 22 juta jiwa hidup dengan disabilitas (Susenas 2020), namun platform edukasi digital yang ada hampir seluruhnya dirancang untuk pengguna tanpa keterbatasan. Akibatnya, siswa tunanetra dan tunarungu terpaksa belajar dari materi yang tidak dapat mereka akses secara penuh—video tanpa subtitle, teks tanpa dukungan audio, dan antarmuka yang tidak kompatibel dengan teknologi bantu.
 
@@ -23,7 +23,7 @@ AKSES menjawab tantangan ini dengan menyediakan dua jalur pembelajaran yang terp
 
 ### Tantangan Aksesibilitas dalam Edukasi Digital
 
-Mayoritas platform Learning Management System (LMS) yang ada saat ini—baik global maupun lokal—dirancang dengan asumsi bahwa pengguna dapat melihat dan mendengar secara normal. Ini menciptakan beberapa permasalahan nyata:
+Mayoritas platform Learning Management System (LMS) yang ada saat ini baik global maupun lokal—dirancang dengan asumsi bahwa pengguna dapat melihat dan mendengar secara normal. Ini menciptakan beberapa permasalahan nyata:
 
 | Masalah | Dampak pada Siswa |
 |---------|-------------------|
@@ -34,7 +34,7 @@ Mayoritas platform Learning Management System (LMS) yang ada saat ini—baik glo
 | Tidak ada profil aksesibilitas yang tersimpan | Pengguna harus mengatur ulang preferensi di setiap sesi |
 | Guru tidak memiliki visibilitas terhadap kebutuhan khusus siswa | Tidak ada intervensi yang tepat waktu ketika siswa mengalami hambatan belajar |
 
-Solusi eksisting—seperti menggunakan screen reader pihak ketiga atau subtitle otomatis dari platform video—bersifat fragmentatif, tidak terintegrasi, dan mengharuskan siswa melakukan konfigurasi teknis yang kompleks sebelum mereka bahkan dapat mulai belajar.
+Solusi eksisting seperti menggunakan screen reader pihak ketiga atau subtitle otomatis dari platform video bersifat fragmentatif, tidak terintegrasi, dan mengharuskan siswa melakukan konfigurasi teknis yang kompleks sebelum mereka bahkan dapat mulai belajar.
 
 ---
 
@@ -470,16 +470,8 @@ Berdasarkan arsitektur dan fitur saat ini, berikut adalah roadmap pengembangan y
 |-------------|------|
 | [@guzelaz23](https://github.com/guzelaz23) | Product Owner, UI/UX Designer, Frontend Developer |
 
-> **TODO:** Perbarui bagian ini seiring bertambahnya kontributor tim.
-
----
-
-## License
-
-> **TODO:** Tambahkan lisensi yang sesuai (MIT, Apache 2.0, atau lisensi proprietary).
-
 ---
 
 <p align="center">
-  <strong>AKSES</strong> — Karena setiap siswa berhak atas pendidikan yang setara.
+  <strong>AKSES</strong> - Karena setiap siswa berhak atas pendidikan yang setara.
 </p>
