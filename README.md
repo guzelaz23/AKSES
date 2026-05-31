@@ -125,22 +125,22 @@ AKSES mengintegrasikan aksesibilitas langsung ke dalam lapisan aplikasi sehingga
 
 <img width="1901" height="811" alt="image" src="https://github.com/user-attachments/assets/3d2eb244-8e24-4b57-83af-3b6f694d4802" />
 <img width="1905" height="864" alt="image" src="https://github.com/user-attachments/assets/634308f6-e6c1-4562-9303-8d7afc533797" />
-*Login dengan pemilihan mode disabilitas dan pengaturan aksesibilitas*
+>Login dengan pemilihan mode disabilitas dan pengaturan aksesibilitas
 
 <img width="1916" height="873" alt="image" src="https://github.com/user-attachments/assets/127f4293-8973-41ba-8e1f-f997b7e45f6a" />
-*Dashboard dengan progress mingguan, alert live, dan rekomendasi materi*
+>Dashboard dengan progress mingguan, alert live, dan rekomendasi materi
 
 <img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/68d446fc-8e07-4c2d-a3ef-b0ab502dd761" />
-*Katalog 10 materi dengan filter mode aksesibilitas dan pencarian*
+>Katalog 10 materi dengan filter mode aksesibilitas dan pencarian
 
 <img width="1917" height="874" alt="image" src="https://github.com/user-attachments/assets/48a0ae6a-7882-4d6d-b203-2a4b2add99a3" />
-*Dashboard guru dengan progress siswa dan jadwal sesi*
+>Dashboard guru dengan progress siswa dan jadwal sesi
 
 <img width="1912" height="873" alt="image" src="https://github.com/user-attachments/assets/b7fac32b-0fdb-432a-8696-b56c5e233b58" />
-*Laporan penggunaan fitur aksesibilitas per siswa dan per fitur*
+>Laporan penggunaan fitur aksesibilitas per siswa dan per fitur
 
 <img width="1916" height="872" alt="image" src="https://github.com/user-attachments/assets/5b09dd0b-eed5-4d6c-bb42-6223937b2eaf" />
-*Fitur upload materi dengan AI content generation*
+>Fitur upload materi dengan AI content generation
 
 ---
 
