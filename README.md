@@ -133,12 +133,6 @@ AKSES mengintegrasikan aksesibilitas langsung ke dalam lapisan aplikasi sehingga
 <img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/68d446fc-8e07-4c2d-a3ef-b0ab502dd761" />
 *Katalog 10 materi dengan filter mode aksesibilitas dan pencarian*
 
-![Material Player dengan TTS](docs/screenshots/material-player.png)
-*Player materi dengan Text-to-Speech dan sorotan kata per kata*
-
-![Kelas Live dengan Transkrip](docs/screenshots/live-class.png)
-*Sesi live dengan transkrip real-time dan panel tanya jawab*
-
 <img width="1917" height="874" alt="image" src="https://github.com/user-attachments/assets/48a0ae6a-7882-4d6d-b203-2a4b2add99a3" />
 *Dashboard guru dengan progress siswa dan jadwal sesi*
 
