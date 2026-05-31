@@ -1,4 +1,4 @@
-# AKSES — Akses Edukasi Setara
+# AKSES - Akses Edukasi Setara
 
 > **Platform belajar digital inklusif untuk penyandang disabilitas sensorik di Indonesia**
 
@@ -13,7 +13,7 @@
 
 **AKSES** (Akses Edukasi Setara) adalah platform pembelajaran digital yang dirancang dari bawah ke atas untuk memastikan setiap siswa terlepas dari keterbatasan sensorik mereka yaitu mendapatkan pengalaman belajar yang setara, bermartabat, dan efektif. Platform ini menempatkan aksesibilitas bukan sebagai fitur tambahan, melainkan sebagai filosofi utama desain produk.
 
-Di Indonesia, lebih dari 22 juta jiwa hidup dengan disabilitas (Susenas 2020), namun platform edukasi digital yang ada hampir seluruhnya dirancang untuk pengguna tanpa keterbatasan. Akibatnya, siswa tunanetra dan tunarungu terpaksa belajar dari materi yang tidak dapat mereka akses secara penuh—video tanpa subtitle, teks tanpa dukungan audio, dan antarmuka yang tidak kompatibel dengan teknologi bantu.
+Di Indonesia, lebih dari 22 juta jiwa hidup dengan disabilitas (Susenas 2020), namun platform edukasi digital yang ada hampir seluruhnya dirancang untuk pengguna tanpa keterbatasan. Akibatnya, siswa tunanetra dan tunarungu terpaksa belajar dari materi yang tidak dapat mereka akses secara penuh video tanpa subtitle, teks tanpa dukungan audio, dan antarmuka yang tidak kompatibel dengan teknologi bantu.
 
 AKSES menjawab tantangan ini dengan menyediakan dua jalur pembelajaran yang terpersonalisasi: **jalur audio** untuk siswa tunanetra (didukung Text-to-Speech berbasis Web Speech API dengan sorotan kata real-time) dan **jalur visual** untuk siswa tunarungu (dengan subtitle otomatis pada sesi live). Guru dilengkapi dasbor analitik aksesibilitas yang memungkinkan mereka memantau keterlibatan siswa berkebutuhan khusus secara individual, menjadikan AKSES bukan hanya alat belajar, tetapi juga ekosistem pendidikan inklusif yang komprehensif.
 
@@ -23,7 +23,7 @@ AKSES menjawab tantangan ini dengan menyediakan dua jalur pembelajaran yang terp
 
 ### Tantangan Aksesibilitas dalam Edukasi Digital
 
-Mayoritas platform Learning Management System (LMS) yang ada saat ini baik global maupun lokal—dirancang dengan asumsi bahwa pengguna dapat melihat dan mendengar secara normal. Ini menciptakan beberapa permasalahan nyata:
+Mayoritas platform Learning Management System (LMS) yang ada saat ini baik global maupun lokal dirancang dengan asumsi bahwa pengguna dapat melihat dan mendengar secara normal. Ini menciptakan beberapa permasalahan nyata:
 
 | Masalah | Dampak pada Siswa |
 |---------|-------------------|
@@ -439,7 +439,7 @@ Platform menyediakan akun demo yang dapat digunakan langsung tanpa registrasi:
 
 ### Social Impact
 
-AKSES memposisikan aksesibilitas sebagai hak dasar, bukan keistimewaan. Dengan menyematkan kebutuhan siswa berkebutuhan khusus ke dalam inti desain produk—bukan sebagai fitur tambahan—platform ini mendorong standar baru untuk EdTech inklusif di Indonesia. Laporan aksesibilitas yang diberikan kepada guru juga mendorong perubahan perilaku pedagogis: ketika guru dapat melihat data, mereka lebih cenderung mengambil tindakan proaktif untuk mendukung siswa mereka.
+AKSES memposisikan aksesibilitas sebagai hak dasar, bukan keistimewaan. Dengan menyematkan kebutuhan siswa berkebutuhan khusus ke dalam inti desain produk bukan sebagai fitur tambahan platform ini mendorong standar baru untuk EdTech inklusif di Indonesia. Laporan aksesibilitas yang diberikan kepada guru juga mendorong perubahan perilaku pedagogis: ketika guru dapat melihat data, mereka lebih cenderung mengambil tindakan proaktif untuk mendukung siswa mereka.
 
 ---
 
